@@ -1,4 +1,5 @@
 .env
+vector_db.py
 # Environment variables
 .env
 
