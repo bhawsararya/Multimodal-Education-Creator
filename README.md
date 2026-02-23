@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Multimodal
 =======
 # Multimodal Education Creator (Optimized)
@@ -18,3 +19,6 @@
 - First image load downloads ~1GB (sd-turbo)
 - CPU friendly & fast
 >>>>>>> ff220aa (Initial commit)
+=======
+# Multimodal-Education-Creator
+>>>>>>> ac1c6586863f720ddf1f68a2c7ef9ea6fc4188ee
