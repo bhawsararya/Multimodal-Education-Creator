@@ -1,0 +1,15 @@
+streamlit
+faiss-cpu
+sentence-transformers
+google-generativeai
+python-dotenv
+
+torch>=2.0
+
+diffusers==0.28.0
+transformers==4.38.2
+huggingface-hub==0.21.4
+
+accelerate
+safetensors
+Pillow
