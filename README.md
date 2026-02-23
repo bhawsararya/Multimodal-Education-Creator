@@ -25,7 +25,6 @@ The result is multimodal content — combining text + visuals for deeper learnin
 📌 Note: This version does not use a vector database — focus is on quality generation with simple architecture.    
 
 📦 Quick Start
-
 Ready to run? Just follow the steps below:
 
 1️⃣ Clone the Project
@@ -53,14 +52,18 @@ Displays text + image together in a sleek Streamlit interface.
 
 🧩 Concept Clarity
 Visuals plus text improve retention and understanding.
+
 ⚡ Speed
 Generate full educational content in seconds.
+
 🛠 Easy to Use
 Simple UI and minimal setup.
+
 🎨 Creative Outputs
 Custom images that align with core concepts.
 
 🛠️ Project Architecture
+
 User Input → Gemini Pro (Text) → Prompt Refinement → SD-Turbo (Images)
                  ↓                                        ↑
             Content + Visuals Combined ← Streamlit UI
@@ -68,8 +71,11 @@ User Input → Gemini Pro (Text) → Prompt Refinement → SD-Turbo (Images)
 📈 Use Cases
 
 ✔ Self-study enhancement
+
 ✔ Teacher & tutor content support
+
 ✔ E-learning modules and micro-lessons
+
 ✔ Presentations and educational resources
 
 
