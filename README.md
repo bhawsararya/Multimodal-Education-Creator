@@ -11,11 +11,9 @@ Education should be immersive, creative, and accessible. This project transforms
 🧠 What It Does
 
 Given any topic, Multimodal Education Creator will generate:
-
 ✨ Structured Concept Breakdown – Clear and organized explanation
 🎯 Key Learning Points – Highlights to aid retention
 🖼️ AI-Generated Visuals – Custom images that reinforce understanding
-
 The result is multimodal content — combining text + visuals for deeper learning impact.
 
 🛠️ Core Technology
@@ -24,7 +22,6 @@ The result is multimodal content — combining text + visuals for deeper learnin
 🎨 Image Generation	Stable Diffusion Turbo (SD-Turbo)
 🖥️ Interface	Streamlit
 🧩 Orchestration	Python
-
 📌 Note: This version does not use a vector database — focus is on quality generation with simple architecture.    
 
 📦 Quick Start
@@ -48,24 +45,18 @@ streamlit run app.py
 💡 How It Works
 
 User enters a topic in the UI.
-
 The system sends the prompt to Gemini Pro for text generation.
-
 Refines prompts for Stable Diffusion Turbo to generate visuals.
-
 Displays text + image together in a sleek Streamlit interface.
 
 🎯 Why This Matters
 
 🧩 Concept Clarity
 Visuals plus text improve retention and understanding.
-
 ⚡ Speed
 Generate full educational content in seconds.
-
 🛠 Easy to Use
 Simple UI and minimal setup.
-
 🎨 Creative Outputs
 Custom images that align with core concepts.
 
